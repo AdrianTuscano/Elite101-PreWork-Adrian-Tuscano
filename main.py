@@ -1,5 +1,5 @@
 # Welcome the user
-
+print("Welcome to Adrian's Elite-101 Chatbot!")
 # Collect the user’s name and age
 
 # Ask the user how it can help them
